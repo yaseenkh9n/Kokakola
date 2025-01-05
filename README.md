@@ -1,2 +1,3 @@
-#kokakola
-[live preview]("https://yaseenkh9n.github.io/Kokakola/")
+# kokakola
+
+[live preview](https://yaseenkh9n.github.io/Kokakola/)
